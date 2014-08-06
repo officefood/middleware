@@ -1,0 +1,6 @@
+[submodule "public/webapp"]
+	path = public/webapp
+	url = git@github.com:officefood/webapp.git
+[submodule "webapp"]
+	path = webapp
+	url = git@github.com:officefood/webapp.git
